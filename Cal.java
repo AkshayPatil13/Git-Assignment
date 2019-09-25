@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Cal{
 
 	public static void add(int a, int b){
@@ -5,7 +7,7 @@ public class Cal{
 	}
 
 	public static void sub(int a, int b){
-		System.out.println(a-b);
+		System.out.println(Math.abs(a-b));
 	}
 
 	public static void main(String args[]){

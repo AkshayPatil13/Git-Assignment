@@ -18,5 +18,5 @@ public class Cal{
 		add(10,20);
     sub(100,50);
    	mul(50,10);
-	}
+  }
 }

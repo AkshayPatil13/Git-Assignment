@@ -10,6 +10,6 @@ public class Cal{
 
 	public static void main(String args[]){
 		add(10,20);
-		sub(50,10);
+    sub(50,10);
 	}
 }
